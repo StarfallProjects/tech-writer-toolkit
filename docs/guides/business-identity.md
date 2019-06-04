@@ -1,0 +1,5 @@
+# Business identity
+
+## Consider
+
+## Template

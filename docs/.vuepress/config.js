@@ -20,7 +20,6 @@ module.exports = {
                 '/guides/one-page-contract',
                 '/guides/new-client-onboarding',
                 '/guides/workflow',
-                '/guides/project-management',
                 '/guides/invoice'
             ]
         },
@@ -28,14 +27,9 @@ module.exports = {
             title: 'Resources',
             children: [
                 '/resources/',
-                '/resources/tax-links',
-                '/resources/business-identity',
-                '/resources/business-plans',
-                '/resources/cost-estimates',
-                '/resources/contracts',                
-                '/resources/new-client-onboarding',
-                '/resources/project-management',
-                '/resources/workflows',
+                '/resources/tools',
+                '/resources/find-work',
+                '/resources/tax-links'
 
             ]
         }

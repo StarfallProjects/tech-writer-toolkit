@@ -10,7 +10,7 @@ module.exports = {
       ],
       sidebar: [
         {
-            title: 'guides',
+            title: 'Guides',
             children: [
                 '/guides/',
                 '/guides/core-values',

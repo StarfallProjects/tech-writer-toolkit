@@ -20,7 +20,7 @@ module.exports = {
                 '/guides/one-page-contract',
                 '/guides/new-client-onboarding',
                 '/guides/workflow',
-                '/guides/invoice'
+                '/guides/get-paid'
             ]
         },
         {

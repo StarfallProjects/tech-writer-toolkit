@@ -30,3 +30,4 @@
 
 | Name and link | Description | Cost? |
 | ------------- | ----------- | ----- |
+| [Toggl](https://toggl.com/) | Time tracking | Generous free tier, multiple paid tiers |

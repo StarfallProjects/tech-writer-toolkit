@@ -1,4 +1,4 @@
-# Business identity
+# Core values
 
 | Description | Download as . . . | Link |
 | ----------- | ----------------- | ---- |

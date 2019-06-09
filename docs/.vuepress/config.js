@@ -4,38 +4,32 @@ module.exports = {
     themeConfig: {
       nav: [
         { text: 'Home', link: '/' },
-        { text: 'Kit', link: '/kit/' },
+        { text: 'Guides', link: '/guides/' },
         { text: 'Resources', link: '/resources/' },
         { text: 'About', link: '/about/' }
       ],
       sidebar: [
         {
-            title: 'Toolkit',
+            title: 'Guides',
             children: [
-                '/kit/',
-                '/kit/core-values',
-                '/kit/business-identity',
-                '/kit/business-plan',
-                '/kit/cost-estimate',
-                '/kit/one-page-contract',
-                '/kit/new-client-onboarding',
-                '/kit/workflow',
-                '/kit/project-management',
-                '/kit/invoice'
+                '/guides/',
+                '/guides/core-values',
+                '/guides/business-identity',
+                '/guides/business-plan',
+                '/guides/cost-estimate',
+                '/guides/one-page-contract',
+                '/guides/new-client-onboarding',
+                '/guides/workflow',
+                '/guides/get-paid'
             ]
         },
         {
             title: 'Resources',
             children: [
                 '/resources/',
-                '/resources/tax-links',
-                '/resources/business-identity',
-                '/resources/business-plans',
-                '/resources/cost-estimates',
-                '/resources/contracts',                
-                '/resources/new-client-onboarding',
-                '/resources/project-management',
-                '/resources/workflows',
+                '/resources/tools',
+                '/resources/find-work',
+                '/resources/tax-links'
 
             ]
         }

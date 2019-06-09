@@ -1,1 +1,0 @@
-# One page contract

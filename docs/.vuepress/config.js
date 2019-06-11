@@ -16,9 +16,9 @@ module.exports = {
                 '/guides/core-values',
                 '/guides/business-identity',
                 '/guides/business-plan',
+                '/guides/project-planning',
                 '/guides/cost-estimate',
-                '/guides/one-page-contract',
-                '/guides/new-client-onboarding',
+                '/guides/one-page-contract',                
                 '/guides/workflow',
                 '/guides/get-paid'
             ]

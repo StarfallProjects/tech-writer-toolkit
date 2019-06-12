@@ -4,6 +4,17 @@ This page covers both planning when considering a new client or project, such as
 
 ## Consider before taking on a project
 
+### Are there any key deadlines?
+
+#### Example
+"This a new project. v1.0 releases in three months. Documentation must be ready then.
+
+### What are the deliverables?
+
+#### Example
+"The client needs documentation in both web and PDF formats."  
+"The client has feedback from users that they'd really like video tutorials. We need to focus on producing these."
+
 ## Consider after taking on a project
 
 ### Who do I report to?
@@ -28,4 +39,4 @@ This page covers both planning when considering a new client or project, such as
 
 ## Template
 
-Tom Johnson's [project plan template](https://idratherbewriting.com/blog/documentation-project-plan-template/)  
+Tom Johnson's [project plan template](https://idratherbewriting.com/blog/documentation-project-plan-template/), available as a Google Doc [here](https://docs.google.com/document/d/1ADOyIAdPfOtvNKbKhxCAnypSuIRYRH24fv8QM4xhztY/edit?usp=sharing).

@@ -1,4 +1,4 @@
-# New client onboarding
+# Project planning
 
 | Description | Download as . . . | Link |
 | ----------- | ----------------- | ---- |

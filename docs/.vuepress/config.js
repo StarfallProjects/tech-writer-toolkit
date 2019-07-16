@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'Consultant Tech Writer  Toolkit',
+    title: 'Consultant Tech Writer Toolkit',
     description: 'Tools and templates for freelance and consultant tech writers',
     themeConfig: {
       nav: [

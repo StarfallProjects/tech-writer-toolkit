@@ -20,6 +20,7 @@ module.exports = {
                 '/guides/cost-estimate',
                 '/guides/one-page-contract',                
                 '/guides/workflow',
+                '/guides/find-work',
                 '/guides/get-paid'
             ]
         },
@@ -27,8 +28,7 @@ module.exports = {
             title: 'Resources',
             children: [
                 '/resources/',
-                '/resources/tools',
-                '/resources/find-work',
+                '/resources/tools',               
                 '/resources/tax-links'
 
             ]

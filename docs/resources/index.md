@@ -1,3 +1,3 @@
 # Introduction
 
-The **Resources** section is a collection of templates and links, provided by the community.
+The **Resources** section offers curated collections of links and resources.

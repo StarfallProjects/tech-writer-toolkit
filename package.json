@@ -1,5 +1,5 @@
 {
-  "name": "consultant-tech-writer-toolkit",
+  "name": "tech-writer-toolkit",
   "version": "1.0.0",
   "description": "Resources for consultant and freelance tech writers",
   "main": "index.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/StarfallProjects/consultant-tech-writer-toolkit.git"
+    "url": "git+https://github.com/StarfallProjects/tech-writer-toolkit.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/StarfallProjects/consultant-tech-writer-toolkit/issues"
+    "url": "https://github.com/StarfallProjects/tech-writer-toolkit/issues"
   },
-  "homepage": "https://github.com/StarfallProjects/consultant-tech-writer-toolkit#readme",
+  "homepage": "https://github.com/StarfallProjects/tech-writer-toolkit#readme",
   "devDependencies": {
     "@vuepress/plugin-google-analytics": "^1.0.0-rc.1",
     "vuepress": "^1.0.2"

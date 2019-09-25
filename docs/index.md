@@ -7,7 +7,7 @@ footer: MIT Licensed
 
 ## Purpose
 
-Consultant and freelance tech writers often work alone. They create documents and tools to help their work, including contracts, workflows, email templates and more. This site is intended as a place to collate these resources, bringing together the tools and experience of a diverse range of consultants. 
+Consultant and freelance tech writers often work alone. They create documents and tools to help their work, including contracts, workflows, email templates and more. This site started as a place to collate these resources, bringing together the tools and experience of a diverse range of consultants. 
 
 The [guides](guides/index.md) section is a good starting point for new freelancers and professionals who are refocusing their career. It provides key points to think about when planning your freelance career, and templates to get started with.
 

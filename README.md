@@ -1,4 +1,4 @@
-# Consultant tech writer toolkit
+# Tech writer toolkit
 
 https://techwritertoolkit.com/
 

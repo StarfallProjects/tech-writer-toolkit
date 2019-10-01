@@ -1,0 +1,42 @@
+site_name: Tech Writer Toolkit
+site_description: 
+site_author: Deborah Barnard
+site_url: https://techwritertoolkit.com/
+repo_name: 'StarfallProjects/tech-writer-toolkit'
+repo_url: 'https://github.com/StarfallProjects/tech-writer-toolkit'
+theme:
+  name: 'material'
+  custom_dir: customTheme
+  language: 'en'
+  palette:
+    primary: 'purple'
+    accent: 'purple'
+  feature:
+    tabs: true
+google_analytics:
+  - 'UA-112380159-4'
+  - 'auto'
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+nav:
+  - Home: index.md
+  - Consulting and freelancing:
+    - Introduction: consultant/introduction.md
+    - Core values and first thoughts: consultant/core-values.md
+    - Business identity: consultant/business-identity.md
+    - Business plan: consultant/business-plan.md
+    - Project planning: consultant/project-planning.md
+    - Cost estimate: consultant/cost-estimate.md
+    - One page contract: consultant/one-page-contract.md
+    - Workflow: consultant/workflow.md
+    - Finding work: consultant/find-work.md
+    - Getting paid: consultant/get-paid.md
+  - Links and resources: 
+    - Introduction: resources/introduction.md
+    - Tools: resources/tools.md
+    - Tax: resources/tax-links.md
+  - About: about.md

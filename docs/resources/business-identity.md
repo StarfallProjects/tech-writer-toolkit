@@ -1,5 +1,0 @@
-# Business identity
-
-| Description | Download as . . . | Link |
-| ----------- | ----------------- | ---- |
-| | | |

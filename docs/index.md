@@ -1,16 +1,11 @@
----
-home: true
-actionText: Guides →
-actionLink: /guides/
-footer: MIT Licensed
----
+# Tech Writer Toolkit
 
 ## Purpose
 
 Consultant and freelance tech writers often work alone. They create documents and tools to help their work, including contracts, workflows, email templates and more. This site started as a place to collate these resources, bringing together the tools and experience of a diverse range of consultants. 
 
-The [guides](guides/index.md) section is a good starting point for new freelancers and professionals who are refocusing their career. It provides key points to think about when planning your freelance career, and templates to get started with.
 
-[Resources](resources/index.md) provides currated collections of links.
 
-Refer to [about](about/index.md) for information about the contributors to this site. The [GitHub README](https://github.com/StarfallProjects/consultant-tech-writer-toolkit) provides details on how to add content or suggestions.
+[Resources](resources/introduction.md) provides currated collections of links.
+
+Refer to [about](about.md) for information about the contributors to this site. The [GitHub README](https://github.com/StarfallProjects/consultant-tech-writer-toolkit) provides details on how to add content or suggestions.

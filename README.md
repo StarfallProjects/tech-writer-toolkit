@@ -2,35 +2,54 @@
 
 https://techwritertoolkit.com/
 
-Resources and templates for consultant and freelance tech writers.
+Resources and templates for tech writers.
 
-This site is built with [VuePress](https://vuepress.vuejs.org/) and deployed with [Netlify](https://www.netlify.com/).
+This site is built with [MkDocs](https://www.mkdocs.org/) and deployed with [Netlify](https://www.netlify.com/). It uses the [mkdocs-material](https://github.com/squidfunk/mkdocs-material) theme.
 
-## How to contribute
+
+## Run the site locally
 
 You will need the following installed on your machine:
 * [git](https://git-scm.com/downloads)
-* [Yarn](https://yarnpkg.com/lang/en/)
+* [Python](https://www.python.org/) (recommend 3.7)
+* Pip (installed with Python from 3.4 onwards)
 
-Once you have git and Yarn installed:
-
-1. Clone this repo:
+Clone the repo:
 ```
 git clone https://github.com/StarfallProjects/tech-writer-toolkit.git
 ```
-2. Navigate into the root directory and run `yarn`
-3. Create a new branch. Keep it short but descriptive. If working on an issue, include the issue number.
+
+We strongly recommend using a virtual environment, such as [venv](https://docs.python.org/3/library/venv.html). Make sure to activate your virtual environment before installing the requirements (next step).
+
+Navigate into the top level of the project and run:
+
+```
+pip install -r requirements.txt
+```
+
+This will install MkDocs, the Material theme, and other dependencies.
+
+Run the project locally with:
+
+```
+mkdocs serve
+```
+
+## Contribute
+
+1. Follow the steps to run the site locally. This allows you to preview your work.
+2. Create a new branch. Keep it short but descriptive. If working on an issue, include the issue number.
 ```
 git branch -b <branchName>
 ```
-4. Make your additions or changes.
-5. Check your changes locally by running `yarn docs:dev`
-6. Push your changes to GitHub:
+3. Make your additions or changes.
+4. Check your changes locally.
+5. Push your changes to GitHub:
 ```
 git add *
 git commit -m "brief description of change, include issue number"
-git push --set-upstream origin <branchName>
+git push  --set-upstream origin <branchName>
 ```
-7. Submit a pull request ([GitHub docs](https://help.github.com/en/articles/creating-a-pull-request#creating-the-pull-request))
-8. Request a review from StarfallProjects ([GitHub docs](https://help.github.com/en/articles/requesting-a-pull-request-review))
+6. Submit a pull request ([GitHub docs](https://help.github.com/en/articles/creating-a-pull-request#creating-the-pull-request))
+7. Request a review from StarfallProjects ([GitHub docs](https://help.github.com/en/articles/requesting-a-pull-request-review))
 

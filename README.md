@@ -10,6 +10,7 @@ This site is built with [MkDocs](https://www.mkdocs.org/) and deployed with [Net
 ## Run the site locally
 
 You will need the following installed on your machine:
+
 * [git](https://git-scm.com/downloads)
 * [Python](https://www.python.org/) (recommend 3.7)
 * Pip (installed with Python from 3.4 onwards)

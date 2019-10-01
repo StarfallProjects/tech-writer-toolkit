@@ -15,6 +15,7 @@ Discuss this with each new client. Make sure you know how to get information you
 ### How will I gather the information I need?
 
 Consider the following means of gathering info:
+
 * Attend sprint reviews
 * Interview SMEs (subject matter experts)
 * Access internal documentation and development artifacts (such as JIRA tickets)

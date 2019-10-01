@@ -9,8 +9,6 @@ This site is built with [MkDocs](https://www.mkdocs.org/) and deployed with [Net
 
 ## Run the site locally
 
-> Note: for small edits, you can make the changes directly in GitHub. Refer to [this guide](https://www.starfallprojects.co.uk/blog/edit-on-github/) for more informtion. For larger changes (including anything that affects the site styling and layout), follow the steps below.
-
 You will need the following installed on your machine:
 * [git](https://git-scm.com/downloads)
 * [Python](https://www.python.org/) (recommend 3.7)
@@ -38,6 +36,8 @@ mkdocs serve
 ```
 
 ## Contribute
+
+> **Note:** for small edits, you can make the changes directly in GitHub. Refer to [this guide](https://www.starfallprojects.co.uk/blog/edit-on-github/) for more informtion. For larger changes (including anything that affects the site styling and layout), follow the steps below.
 
 1. Follow the steps to run the site locally. This allows you to preview your work.
 2. Create a new branch. Keep it short but descriptive. If working on an issue, include the issue number.

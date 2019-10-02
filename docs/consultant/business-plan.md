@@ -20,6 +20,7 @@ Your business plan is the practical implementation of the [values](core-values.m
 ### What are my rates?
 
 A range of factors contribute to your rates:
+
 * Look at market data and talk with other freelancers about what they charge.
 * Consider your costs, including: equipment, software, pension, health insurance, holidays and sick leave, professional development and training.
 * Think about unpaid and hidden elements in your job. This may include administrative tasks, such as invoicing, or professional development such as studying for new skills. Make sure your rate for your paid hours covers these unpaid tasks.

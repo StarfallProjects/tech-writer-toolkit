@@ -53,3 +53,5 @@ A range of factors contribute to your rates:
 
 
 ## Template
+
+[Google Docs: Questions](https://docs.google.com/document/d/1TPs76cwNzpa7gGzKmQe1qw20eo9G55ATAPovttQWsvc/edit?usp=sharing)

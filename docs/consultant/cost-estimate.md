@@ -16,3 +16,5 @@ Provide a cost estimate to potential clients, based on the costs and rates consi
 
 
 ## Template
+
+[Google Docs: Questions](https://docs.google.com/document/d/1ClrJ3vrKGwUXiNBu28ZFIFBQoqw5W16P-7-URKErB6Y/edit?usp=sharing)

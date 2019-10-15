@@ -46,3 +46,5 @@ Your core values are guiding principles for you and your business. They help foc
 
 
 ## Template
+
+[Google Docs: Questions](https://docs.google.com/document/d/17C2uY4IIOA0hFLFNvShllAwJzJCa-e7qyJ0DDOUwwsE/edit?usp=sharing)

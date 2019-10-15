@@ -50,3 +50,5 @@ This is two to three sentences summarising your business specialities, value pro
 "I run a women in tech blog and offer freelance writing services for tech companies. I focus on industry trends, SaaS and HR. I help my clients acquire new customers through content marketing."
 
 ## Template
+
+[Google Docs: Questions](https://docs.google.com/document/d/1FpPzs4H3i9g7N-Defp6vX1lZztAWHtHr8KkvjwNorJU/edit?usp=sharing)

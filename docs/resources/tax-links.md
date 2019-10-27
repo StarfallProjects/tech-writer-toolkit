@@ -11,3 +11,7 @@ There is also an Australian Government [Business](https://www.business.gov.au/) 
 The UK government website has extensive guides on [working for yourself](https://www.gov.uk/working-for-yourself), including how to [set up as a sole trader](https://www.gov.uk/set-up-sole-trader), [set up a limited company](https://www.gov.uk/limited-company-formation) or [set up a business partnership](https://www.gov.uk/set-up-business-partnership).  
 
 This [salary calculator](https://www.thesalarycalculator.co.uk/salary.php) can help you estimate how much tax, national insurance and student loan you may need to pay.
+
+## United States
+
+The [IRS website](https://www.irs.gov/) has resources on [self-employment](https://www.irs.gov/businesses/small-businesses-self-employed/self-employed-individuals-tax-center) and [starting a business](https://www.irs.gov/businesses/small-businesses-self-employed/starting-a-business). Visit your [state's government website](https://www.irs.gov/businesses/small-businesses-self-employed/state-government-websites) for any state-level requirements.

@@ -12,6 +12,9 @@ Recommended reading for technical writers. Where possible, we've linked to a pub
 * [The Product is Docs](https://www.splunk.com/en_us/blog/splunklife/the-product-is-docs.html) - writing technical documentation in a product development group.
 * [Wicked, Incomplete, and Uncertain](https://www.goodreads.com/book/show/37864792-wicked-incomplete-and-uncertain) - user support and technical communication.
 
+## Articles
+
+* [Four Types of Documentation](https://www.divio.com/blog/documentation/) - introduction to different content types. Also available as a [talk](https://www.writethedocs.org/videos/eu/2017/the-four-kinds-of-documentation-and-why-you-need-to-understand-what-they-are-daniele-procida/).
 
 
 

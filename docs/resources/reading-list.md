@@ -8,6 +8,7 @@ Recommended reading for technical writers. Where possible, we've linked to a pub
 * [Content Strategy 101](https://contentstrategy101.com/) - introduction to content strategy, maximise the value of your technical content.
 * [Docs Like Code](https://www.docslikecode.com/book/) - the docs like code methodology.
 * [Every Page is Page One](https://everypageispageone.com/the-book/) - online documentation, information foraging, content organisation.
+* [How to Make Sense of Any Mess](http://www.howtomakesenseofanymess.com/) - an introduction to information architecture.
 * [Letting Go of the Words](https://www.goodreads.com/book/show/1135441.Letting_Go_of_the_Words) - writing web content that works.
 * [Living Documentation](https://www.goodreads.com/book/show/26865837-living-documentation-by-design-with-domain-driven-design) - a domain driven design approach to documentation.
 * [Managing Writers](https://www.goodreads.com/book/show/6322901-managing-writers) - managing documentation projects.

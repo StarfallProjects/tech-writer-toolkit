@@ -7,21 +7,24 @@ repo_url: 'https://github.com/StarfallProjects/tech-writer-toolkit'
 theme:
   name: 'material'
   custom_dir: customTheme
+  favicon: assets/images/school.ico
+  icon:
+    logo: material/school
   language: 'en'
   palette:
     primary: 'purple'
     accent: 'purple'
-  feature:
-    tabs: true
+  features:
+    - tabs
 google_analytics:
   - 'UA-112380159-4'
   - 'auto'
 markdown_extensions:
   - admonition
-  - codehilite:
-      guess_lang: false
+  - pymdownx.highlight:
+      use_pygments: true
   - toc:
-      permalink: true
+      permalink: "#"
 nav:
   - Home: index.md
   - Consulting and freelancing:

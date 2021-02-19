@@ -16,9 +16,6 @@ theme:
     accent: 'purple'
   features:
     - tabs
-google_analytics:
-  - 'UA-112380159-4'
-  - 'auto'
 markdown_extensions:
   - admonition
   - pymdownx.highlight:

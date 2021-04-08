@@ -15,7 +15,7 @@ theme:
     primary: 'purple'
     accent: 'purple'
   features:
-    - tabs
+    - navigation.tabs
 markdown_extensions:
   - admonition
   - pymdownx.highlight:

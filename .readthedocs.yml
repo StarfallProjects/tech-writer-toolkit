@@ -3,7 +3,8 @@ mkdocs:
   configuration: mkdocs.yml
   fail_on_warning: false
 python:
-  version: 3.7
+  version: 3.9
   install:
     - requirements: requirements.txt
     - method: pip
+      path: .

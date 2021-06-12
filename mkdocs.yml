@@ -6,7 +6,7 @@ repo_name: 'StarfallProjects/tech-writer-toolkit'
 repo_url: 'https://github.com/StarfallProjects/tech-writer-toolkit'
 theme:
   name: 'material'
-  custom_dir: customTheme
+  custom_dir: overrides
   favicon: assets/images/school.ico
   icon:
     logo: material/school

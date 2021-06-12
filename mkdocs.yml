@@ -5,15 +5,15 @@ site_url: https://techwritertoolkit.com/
 repo_name: 'StarfallProjects/tech-writer-toolkit'
 repo_url: 'https://github.com/StarfallProjects/tech-writer-toolkit'
 theme:
-  name: 'material'
+  name: material
   custom_dir: overrides
   favicon: assets/images/school.ico
   icon:
     logo: material/school
-  language: 'en'
+  language: en
   palette:
-    primary: 'purple'
-    accent: 'purple'
+    primary: purple
+    accent: purple
   features:
     - navigation.tabs
 markdown_extensions:

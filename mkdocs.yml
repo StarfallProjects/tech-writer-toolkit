@@ -2,8 +2,6 @@ site_name: Tech writer toolkit
 site_description: Tools and resources for tech writers.
 site_author: Deborah Barnard
 site_url: https://techwritertoolkit.com/
-repo_name: 'StarfallProjects/tech-writer-toolkit'
-repo_url: 'https://github.com/StarfallProjects/tech-writer-toolkit'
 theme:
   name: material
   custom_dir: overrides
@@ -23,7 +21,9 @@ markdown_extensions:
   - toc:
       permalink: "#"
 nav:
-  - Home: index.md
+  - Home: 
+    - Welcome: index.md
+    - About: about.md
   - Consulting and freelancing:
     - Introduction: consultant/introduction.md
     - Core values and first thoughts: consultant/core-values.md
@@ -40,4 +40,4 @@ nav:
     - Reading list: resources/reading-list.md
     - Tools: resources/tools.md
     - Tax: resources/tax-links.md
-  - About: about.md
+

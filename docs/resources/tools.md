@@ -18,7 +18,7 @@
 
 | Name and link | Description | Cost? |
 | ------------- | ----------- | ----- |
-| [Vale](https://errata-ai.github.io/vale/) | Open source, extensible documentation linting | Free |
+| [Vale](https://errata-ai.github.io/vale/) | Open source, extensible documentation linting | Free, with a paid desktop option |
 
 ## Marketing
 

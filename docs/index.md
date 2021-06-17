@@ -8,7 +8,7 @@ Consultant and freelance tech writers often work alone. They create documents an
 
 ## Site contents
 
-[Consulting and freelancing](consultant/introduction.md) is our consultant's guide. It includes guidance on creating a business identity, templates to support project management and admin, and more.
+[Consulting and freelancing](consultant/introduction.md) is the consultant's guide. It includes guidance on creating a business identity, templates to support project management and admin, and more. It was largely produced during the writing day at Write the Docs Vilnius 2019.
 
 [Links and resources](resources/introduction.md) provides currated collections of links.
 

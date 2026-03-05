@@ -1,6 +1,6 @@
 # Tech writer toolkit
 
-**Note:** Project is no longer maintained. The resources now live on the Write the Docs website. (Write the Docs Repo)[https://github.com/writethedocs/www]
+**Note:** Project is no longer maintained. The resources now live on the Write the Docs website. [Write the Docs Repo](https://github.com/writethedocs/www)
 
 https://techwritertoolkit.com/
 
